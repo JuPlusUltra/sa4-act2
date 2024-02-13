@@ -1,0 +1,2 @@
+Create a text file text.txt in the current directory to use as input. Add text
+content to file.
